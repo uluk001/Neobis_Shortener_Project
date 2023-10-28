@@ -9,7 +9,7 @@ Setup & Run
 Clone the repository
 
 ```bash
-git clone https://github.com/uluk/urlshortener.git](https://github.com/uluk001/Neobis_Shortener_Project.git
+git clone https://github.com/uluk001/Neobis_Shortener_Project.git
 cd Neobis_Shortener_Project
 ```
 
